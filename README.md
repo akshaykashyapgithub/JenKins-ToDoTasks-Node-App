@@ -26,4 +26,4 @@ This project demonstrates a Node.js app deployment pipeline using Jenkins on an 
 
 
 ### Checkout Other images also for Ec2 Setup, Outbound Rules before after webhook Setup, Docker Build on Server. 
-(Screenshots)
+!(Screenshots/)
